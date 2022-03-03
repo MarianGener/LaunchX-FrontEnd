@@ -1,4 +1,4 @@
-# LaunchX-FrontEnd
+# Prácticas de la primera semana de LaunchX-FrontEnd
 Recopilación de las prácticas de la parte FrontEnd
 
 [Requerimientos](https://github.com/MarianGener/LaunchX-FrontEnd/blob/be6dab0fcdf262f63c977a3460a9e37f7e30d5c1/REQUERIMIENTOS%20ABOGABOT.pdf) <br>
